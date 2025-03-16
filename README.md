@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project focuses on training a YOLOv8 model for object detection using a custom dataset. The training pipeline is implemented in Google Colab, leveraging PyTorch and Ultralytics YOLOv8 for high-performance deep learning.  
+This project focuses on training a YOLOv8 model for object detection (buildings) and classification using a custom dataset. The training pipeline is implemented in Google Colab, leveraging PyTorch and Ultralytics YOLOv8 for high-performance deep learning.  
 
 ### Features:  
 - **Dataset Preparation:** Custom dataset annotation and preprocessing  
@@ -32,23 +32,23 @@ The repository includes training logs, configuration files, and scripts to repro
 
 <p align="center">
 Display GPU Status: <br/>
-<img src="https://imgur.com/IP2fmVn" height="80%" width="80%" alt="Checking system capabilities"/>
+<img src="https://i.imgur.com/IP2fmVn.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Libraries:  <br/>
+<img src="https://i.imgur.com/SXILpO4.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import Required Libraries: <br/>
+<img src="https://i.imgur.com/q6ilmpW.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Mount Google Drive:  <br/>
+<img src="https://i.imgur.com/uYGg1cW.png" height="80%" width="80%" alt="DL Model Training Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Train the Building Classification Model:  <br/>
+<img src="https://i.imgur.com/ZoWPFzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
