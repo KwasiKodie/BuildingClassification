@@ -51,12 +51,12 @@ Train the Building Classification Model:  <br/>
 <img src="https://i.imgur.com/ZoWPFzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Training Completion Summary and Performance Metrics:  <br/>
+<img src="https://i.imgur.com/sq09Qav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Model Detection of Buildings, Highlighting Damage and Structural Types.:  <br/>
+<img src="https://i.imgur.com/iTeh9G6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
