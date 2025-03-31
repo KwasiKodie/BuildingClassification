@@ -1,7 +1,5 @@
 <h1>Building Classification for Disaster Response</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This project focuses on training a YOLOv8 model for object detection (buildings) and classification using a custom dataset. The training pipeline is implemented in Google Colab, leveraging PyTorch and Ultralytics YOLOv8 for high-performance deep learning.  
 
